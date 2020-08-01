@@ -4,3 +4,8 @@ venv
 new_price_data.csv
 new_price_data1.csv
 f12.ipynb
+__pycache__
+.DS_Store
+
+
+
